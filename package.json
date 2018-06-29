@@ -1,0 +1,21 @@
+{
+  "name": "alservice",
+  "version": "1.0.0",
+  "description": "Angies List service helper",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "stop": "node src/stop.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ed Roesch <eroesch88@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "inquirer": "^6.0.0",
+    "lead-ion": "file:../lead-ion",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2",
+    "q": "^1.5.1"
+  }
+}

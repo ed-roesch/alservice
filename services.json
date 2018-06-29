@@ -1,0 +1,86 @@
+[
+  {
+    "name": "account-ion",
+    "is_npm": true,
+    "is_ion": true,
+    "repository": "git@github.com:angieslist/account-ion.git"
+  },
+  {
+    "name": "content-ion",
+    "is_npm": true,
+    "is_ion": true,
+    "repository": "git@github.com:angieslist/content-ion.git"
+  },
+  {
+    "name": "job-management-ion",
+    "is_npm": true,
+    "is_ion": true,
+    "repository": "git@github.com:angieslist/job-management-ion.git"
+  },
+  {
+    "name": "lead-ion",
+    "is_npm": true,
+    "is_ion": true,
+    "repository": "git@github.com:angieslist/lead-ion.git"
+  },
+  {
+    "name": "lead-management-ion",
+    "is_npm": true,
+    "is_ion": true,
+    "repository": "git@github.com:angieslist/lead-management-ion.git"
+  },
+  {
+    "name": "member-app",
+    "is_npm": true,
+    "start_with_env": true,
+    "repository": "git@github.com:angieslist/member-app.git"
+  },
+  {
+    "name": "message-center-ion",
+    "is_npm": true,
+    "is_ion": true,
+    "repository": "git@github.com:angieslist/message-center-ion.git"
+  },
+  {
+    "name": "offer-ion",
+    "is_npm": true,
+    "is_ion": true,
+    "repository": "git@github.com:angieslist/offer-ion.git"
+  },
+  {
+    "name": "office-app",
+    "is_npm": true,
+    "start_with_env": true,
+    "repository": "git@github.com:angieslist/office-app.git"
+  },
+  {
+    "name": "project-ion",
+    "is_npm": true,
+    "is_ion": true,
+    "repository": "git@github.com:angieslist/project-ion.git"
+  },
+  {
+    "name": "review-ion",
+    "is_npm": true,
+    "is_ion": true,
+    "repository": "git@github.com:angieslist/review-ion.git"
+  },
+  {
+    "name": "search-ion",
+    "is_npm": true,
+    "is_ion": true,
+    "repository": "git@github.com:angieslist/search-ion.git"
+  },
+  {
+    "name": "service-provider-add-ion",
+    "is_npm": true,
+    "is_ion": true,
+    "repository": "git@github.com:angieslist/service-provider-add-ion.git"
+  },
+  {
+    "name": "service-provider-profile-ion",
+    "is_npm": true,
+    "is_ion": true,
+    "repository": "git@github.com:angieslist/service-provider-profile-ion.git"
+  }
+]
