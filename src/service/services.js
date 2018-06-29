@@ -145,12 +145,16 @@ class Services {
             // Clone
             Q.when(service.gitClone()).then(() => {
               // Service cloned
-              if (service.is_ion) {
-                // Service is an ion, run installation steps
+              if (service.is_npm) {
+                // Service is an npm module, run installation steps
                 service.do_npm_install = true;
+              }
+
+              if (service.is_ion) {
+                // Link ion
                 service.do_npm_link = true;
               }
-              
+
               deferred.resolve(true);
             });
           } else {
